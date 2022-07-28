@@ -8,6 +8,7 @@
     margin: 2px ;
     background-color: rgb(124, 235, 229);
     border-radius: 5px;
+
     
 }
 .navbar ul{
@@ -48,7 +49,8 @@ h2{
     height: 480px;
     background-image: url(images/background.jpg);
     background-repeat: no-repeat;
-    background-size:cover;
+    background-position: center center;
+    background-size: cover;
 
     padding: 50px;
     font-size: xx-large;
@@ -86,6 +88,7 @@ h2{
     display: inline-block;
     width: 49%;
     /* margin: auto; */
+    background-position: center;
 }
 
 #run{
@@ -121,6 +124,7 @@ h2{
     display: inline-block;
     width: 49%;
     /* margin: auto; */
+    background-position: center;
 }
 #exer{
     background-image: url(images/exer.jpg);
